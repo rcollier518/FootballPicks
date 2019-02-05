@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Football Picks</string>
+    <string name="Week1">Pick a team</string>
+    <string name="Week2">Pick a team</string>
+    <string name="Week3">Pick a team</string>
+    <string name="Week4">Pick a team</string>
+    <string name="Week5">Pick a team</string>
+    <string name="Week6">Pick a team</string>
+    <string-array name="Teams">
+        <item>Atlanta</item>
+        <item>Arizona</item>
+        <item>Baltimore</item>
+        <item>Buffalo</item>
+        <item>Carolina</item>
+        <item>Chicago</item>
+        <item>Cincinnati</item>
+        <item>Cleveland</item>
+        <item>Dallas</item>
+        <item>Denver</item>
+        <item>Detroit</item>
+        <item>Green Bay</item>
+        <item>Houston</item>
+        <item>Indianapolis</item>
+        <item>Jacksonville</item>
+        <item>Kansas City</item>
+        <item>Los Angeles Rams</item>
+        <item>Los Angeles Chargers</item>
+        <item>Miami</item>
+        <item>New England</item>
+        <item>New Orleans</item>
+        <item>New York Giants</item>
+<item>New York Jets</item>
+        <item>Oakland</item>
+        <item>Philadelphia</item>
+        <item>Pittsburgh</item>
+        <item>Seattle</item>
+        <item>San Francisco</item>
+        <item>Tampa Bay</item>
+        <item>Tennessee</item>
+        <item>Washington</item>
+
+
+    </string-array>
+
+</resources>
